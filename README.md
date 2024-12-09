@@ -13,7 +13,30 @@
 
 ###
 
-<p align="left">Constant involvement with front-end technologies, such as JavaScript, React with TypeScript integration. Proficiency in back-end programming, using Node.JS with TypeScript, APIs using REST API along with Insomnia. I have my own projects where I use these technologies, which I upload to my GitHub. Additionally, I have knowledge in relational databases using MongoDB and PostgreSQL.<br>I continue to dedicate myself to personal projects and the continuous study of new technologies while actively seeking an opportunity to start my career as a professional developer.</p>
+<p align="left">Tenho experiência prática com uma variedade de tecnologias front-end, incluindo aprendizado web (HTTP, dominio, hospedagem), React utilizando Componentes (funcionais e de classe) Props e State, Ciclo de vida dos componentes, Hooks (useState, useEffect, useContext, etc.), Experiência com Scrum, Kanban ou outras metodologias ágeis, TypeScript e Next.js.
+
+ No back-end, estou confortável trabalhando com Node.js e Nestjs Gerenciamento de Banco de Dados:
+
+Experiência com bancos de dados relacionais (PostgreSQL, MySQL) e não relacionais (MongoDB).
+Uso de ORMs como TypeORM ou Mongoose.
+
+Autenticação e Autorização: Implementação de autenticação (JWT, OAuth, AuthGuards) e controle de acesso.
+
+Testes: Testes unitários e de integração (Jest).
+
+Middleware e Interceptores: Criação e uso de middleware para manipulação de requisições e respostas.
+
+Gerenciamento de Pacotes: Familiaridade com npm ou yarn para gerenciamento de dependências.
+
+Desenvolvimento de Microserviços: Conhecimento em arquitetura de microserviços e comunicação entre serviços.
+
+Ferramentas de Build e Versionamento: Uso de ferramentas como Webpack e controle de versão com Git..
+
+No meu tempo livre gosto de aprender novas tecnologias, atualmente estou em .NET e C# usando bastante para a criação de APIs e authenticação de usuarios com o banco de dados. 
+
+Além disso, tenho uma compreensão intermediária de hardware, o que acredito ser um ativo valioso, especialmente em ambientes onde a integração de software e hardware é crucial. 
+
+Estou ansioso para levar minha carreira para o próximo nível e acredito que minha paixão pelo desenvolvimento e minha vontade de aprender me tornam um forte candidato para qualquer equipe de desenvolvimento..</p>
 
 ###
 
