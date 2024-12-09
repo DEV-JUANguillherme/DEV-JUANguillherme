@@ -5,11 +5,11 @@
 
 ###
 
-<p align="left">My name is Juan moraes, I'm a fullstack jr developer, I live in Campinas SP</p>
+<p align="left">Meu nome é Juan moraes, eu sou desenvolvedor Jr, moro em Campinas SP</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre</h2>
 
 ###
 
@@ -40,7 +40,7 @@ Estou ansioso para levar minha carreira para o próximo nível e acredito que mi
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Linguagens que utilizo</h2>
 
 ###
 
